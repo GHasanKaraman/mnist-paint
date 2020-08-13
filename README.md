@@ -7,7 +7,7 @@ Created a CNN model and trained with mnist data set to predict the numbers that 
 - Open a ms paint window or any program you can draw
 - Set the paint window 700x630 width:700 height:630. If you want to change these setting you have to change top,left,right and buttom parameters in prediction.py
 - Set the background color black and set the brush color white
-- Open an cmd or terminal and run prediction.py
+- Open a cmd or terminal window and run prediction.py
 
 ```
 python prediction.py
