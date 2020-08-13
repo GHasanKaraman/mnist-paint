@@ -1,4 +1,4 @@
-Created a CNN model and trained with mnist data set to predict the numbers that you drew on paint or any paint app.
+Created a CNN model and trained with mnist data set to predict the numbers that you drew on any paint program
 
 ![](mnistPaint.gif)
 
